@@ -20,5 +20,7 @@ Stay Connected
 I regularly update Ideal Pancake with new projects and improvements, so be sure to check back often. You can also follow me on my social media channels for updates, articles, videos, and more:
 
 Medium: https://medium.com/@bhardwajmanu
+
 YouTube: https://www.youtube.com/channel/UCGyzRQX4gdOVvgyvDv6SjBA 
+
 Thank you for joining me on this coding adventure—I'm excited to see what we'll create together!
